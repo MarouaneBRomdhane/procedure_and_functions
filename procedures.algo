@@ -4,3 +4,17 @@ VAR
 BEGIN
     set_instructions
 END
+SWITCH (variable) DO
+    case value : set_instructions
+    case value : set_instructions
+    default : set_instructions
+END_SWITCH
+WHILE (condition) DO
+    set_instructions
+END_WHILE
+IF (conditon) THEN
+    set_instructions
+END_IF
+REPEAT
+    a
+UNTIL (condition)
