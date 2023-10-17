@@ -1,0 +1,6 @@
+PROCEDURE procedure_name(parameters)
+VAR
+    set_declarations
+BEGIN
+    set_instructions
+END
